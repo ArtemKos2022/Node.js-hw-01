@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "name": "node.js-hw-01",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtemKos2022/Node.js-hw-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtemKos2022/Node.js-hw-01/issues"
+  },
+  "homepage": "https://github.com/ArtemKos2022/Node.js-hw-01#readme"
+}
