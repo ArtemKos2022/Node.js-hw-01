@@ -1,12 +1,12 @@
 {
-  "dependencies": {
-    "nodemon": "^2.0.22"
-  },
   "name": "node.js-hw-01",
-  "description": "",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
-  "devDependencies": {},
+  "dependencies": {
+    "commander": "^10.0.1",
+    "nanoid": "^3.3.4"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
